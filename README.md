@@ -4,10 +4,5 @@ A region modification-based data augmentation technique which could account for 
 Reference
 --
 ```
-@article{shyam2021evaluating,
-  title={Evaluating copy-blend augmentation for low level vision tasks},
-  author={Shyam, Pranjay and Sengar, Sandeep Singh and Yoon, Kuk-Jin and Kim, Kyung-Soo},
-  journal={arXiv preprint arXiv:2103.05889},
-  year={2021}
-}
+Shyam P, Sengar S S, Yoon K J, et al. Evaluating copy-blend augmentation for low level vision tasks[J]. arXiv preprint arXiv:2103.05889, 2021.
 ```
